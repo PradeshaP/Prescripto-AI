@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Prescripto-AI/static/css/main.889e8f06.css",
-    "main.js": "/Prescripto-AI/static/js/main.7dec9d34.js",
+    "main.js": "/Prescripto-AI/static/js/main.b4ed7be6.js",
     "index.html": "/Prescripto-AI/index.html",
     "main.889e8f06.css.map": "/Prescripto-AI/static/css/main.889e8f06.css.map",
-    "main.7dec9d34.js.map": "/Prescripto-AI/static/js/main.7dec9d34.js.map"
+    "main.b4ed7be6.js.map": "/Prescripto-AI/static/js/main.b4ed7be6.js.map"
   },
   "entrypoints": [
     "static/css/main.889e8f06.css",
-    "static/js/main.7dec9d34.js"
+    "static/js/main.b4ed7be6.js"
   ]
 }
